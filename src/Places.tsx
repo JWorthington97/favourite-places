@@ -18,7 +18,7 @@ function Places (): JSX.Element {
             img_alt:"Putsborough sands beach",
             location:"Putsborough, North Devon",
             map_link:"https://www.google.com/maps/@51.1462521,-4.2227251,16z",
-            body:"test"
+            body:"testing"
         },
         {
             title:"Cliffs of Uluwatu",
