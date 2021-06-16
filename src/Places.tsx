@@ -1,5 +1,3 @@
-import { totalmem } from "os";
-import { title } from "process";
 import FavouritePlace from "./FavouritePlace";
 
 function Places (): JSX.Element {
