@@ -9,7 +9,7 @@ interface PlaceInfoProps {
 
 function FavouritePlace(props: PlaceInfoProps): JSX.Element {
     return <div style={{
-            background: "#85DCB0",
+            background: "#FBEEC1",
             width: "1000px",
             padding: "10px",
             border: "10px",
