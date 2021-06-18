@@ -37,7 +37,7 @@ function Places (): JSX.Element {
 
     ]
     return (
-    <main>
+    <main className="places">
         {placesArray.map((props) => (
             <FavouritePlace
                 title = {props.title}

@@ -5,6 +5,8 @@ import Places from './Places';
 import Header from './Header';
 import Footer from './Footer';
 
+
+
 function App() {
   return (
     <div className="App">
@@ -16,3 +18,10 @@ function App() {
 }
 
 export default App;
+// GoogleApiWrapper({
+//   apiKey: ("AIzaSyAUYhNe3Va6oJlH9eRQNHWz_ww_awNGx10")
+//  })
+ 
+
+
+ 
